@@ -1,0 +1,3 @@
+Some file is 
+new on 
+master branch
